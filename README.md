@@ -8,7 +8,7 @@ The MERN Module 21: Book Search Engine is a full-stack web application that allo
   
 Screenshot:
 
-![Screenshot](images/screenshot.png)
+![Screenshot](./client/public/Screenshots.jpg)
 
 ## User Story
 
