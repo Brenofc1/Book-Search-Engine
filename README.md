@@ -4,7 +4,7 @@
 
 The MERN Module 21: Book Search Engine is a full-stack web application that allows users to search and save books from the Google Books API. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), this project provides a seamless and intuitive user experience for discovering and managing a personal collection of books.
 
-**[Deployed Application](https:///)**
+**[Deployed Application](https://fathomless-river-17815.herokuapp.com/)**
   
 Screenshot:
 
@@ -59,24 +59,16 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 - [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
 - [Technologies Used](#technology-used)
-- [`npm start`](#npm-start)
+
 
   ## Technologies Used:
-```
-MongoDB: A NoSQL database used to store and manage book data and user information.
-Express.js: A minimal and flexible web application framework for building robust APIs and server-side functionalities.
-React.js: A JavaScript library for building user interfaces, allowing for efficient and dynamic rendering of components.
-Node.js: A JavaScript runtime environment used for server-side scripting and running the backend server.
-Google Books API: An API provided by Google that allows access to the vast collection of books and related information.
-```
 
-### `npm start`
+* MongoDB: A NoSQL database used to store and manage book data and user information.
+* Express.js: A minimal and flexible web application framework for building robust APIs and server-side functionalities.
+* React.js: A JavaScript library for building user interfaces, allowing for efficient and dynamic rendering of components.
+* Node.js: A JavaScript runtime environment used for server-side scripting and running the backend server.
+* Google Books API: An API provided by Google that allows access to the vast collection of books and related information.
 
-Runs the app in the development mode.<br />
-Both the server and react will start and populate as localhost in browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
 
 
