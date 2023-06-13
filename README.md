@@ -4,11 +4,11 @@
 
 The MERN Module 21: Book Search Engine is a full-stack web application that allows users to search and save books from the Google Books API. Built using the MERN stack (MongoDB, Express.js, React.js, and Node.js), this project provides a seamless and intuitive user experience for discovering and managing a personal collection of books.
 
-**[Deployed Application](https://murmuring-tor-75740.herokuapp.com/)**
+**[Deployed Application](https:///)**
   
-💻 Below is a screenshot of the application:
-  
-![book-search-engine](https://github.com/Brenofc1/Book-Search-Engine)
+Screenshot:
+
+![Screenshot](images/screenshot.png)
 
 ## User Story
 
